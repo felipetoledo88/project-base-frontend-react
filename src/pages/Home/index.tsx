@@ -11,7 +11,7 @@ export default function Home() {
 
   return (
     <div onClick={() => getHelloWorld()}>
-      Teste
+      Clique aqui para testar!
     </div>
   )
 }
