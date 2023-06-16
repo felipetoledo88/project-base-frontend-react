@@ -57,9 +57,9 @@ export default function Login() {
                     <div className="mt-3">
                       <p className="mb-0 text-center">
                         Ainda não possui uma conta?{" "}
-                        <Link to="/new-register"
-                          className="text-primary fw-bold"
-                        >Cadastre-se</Link>
+                        <Link to="/new-register" className="text-primary fw-bold">
+                          Cadastre-se
+                        </Link>
                       </p>
                     </div>
                   </div>
