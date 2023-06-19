@@ -1,6 +1,6 @@
 import { Routes, Route } from "react-router-dom";
 import Login from "./pages/Login";
-import { NewRegister } from "./pages/Login/NewRegister";
+import { NewRegister } from "./pages/NewRegister";
 
 export default function App() {
   return (
